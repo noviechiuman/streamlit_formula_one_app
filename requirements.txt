@@ -1,0 +1,8 @@
+streamlit
+pydeck
+beautifulsoup4
+numpy==1.18.5
+pandas
+requests
+matplotlib
+seaborn==0.11.0

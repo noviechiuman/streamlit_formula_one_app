@@ -1,0 +1,23 @@
+order,date,grand_prix,name,circuit_length,number_of_laps,number_of_turns,lat,lon
+1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,5.412,57,15,26.031226,50.513219
+2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,6.174,50,27,21.636631,39.103057
+3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,5.278,58,14,-37.850709,144.969913
+4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,4.909,63,19,44.344358,11.713879
+5,2022-05-08,Miami Grand Prix,Miami International Autodrome,5.412,57,19,25.956623,-80.231395
+6,2022-05-22,Spanish Grand Prix,Circuit de Barcelona-Catalunya,4.675,66,16,41.569856,2.260096
+7,2022-05-29,Monaco Grand Prix,Circuit de Monaco,3.337,78,19,43.73552,7.421821
+8,2022-06-12,Azerbaijan Grand Prix,Baku City Circuit,6.003,51,20,40.372681,49.85314
+9,2022-06-19,Canadian Grand Prix,Circuit Gilles Villeneuve,4.361,70,14,45.502464,-73.528083
+10,2022-07-03,British Grand Prix,Silverstone Circuit,5.891,52,18,52.073574,-1.01517
+11,2022-07-10,Austrian Grand Prix,Red Bull Ring,4.318,71,10,47.219955,14.764856
+12,2022-07-24,French Grand Prix,Circuit Paul Ricard,5.842,53,15,43.25268,5.790145
+13,2022-07-31,Hungarian Grand Prix,Hungaroring,4.381,70,14,47.580101,19.247818
+14,2022-08-28,Belgian Grand Prix,Circuit de Spa-Francorchamps,7.004,44,19,50.443978,5.965257
+15,2022-09-04,Dutch Grand Prix,Circuit Park Zandvoort,4.259,72,14,52.387526,4.544522
+16,2022-09-11,Italian Grand Prix,Autodromo Nazionale Monza,5.793,53,11,45.617762,9.284509
+17,2022-10-02,Singapore Grand Prix,Marina Bay Street Circuit,5.063,61,23,1.291239,103.864232
+18,2022-10-09,Japanese Grand Prix,Suzuka Circuit,5.807,53,18,34.843775,136.53992
+19,2022-10-23,United States Grand Prix,Circuit of the Americas,5.513,56,20,30.133379,-97.637751
+20,2022-10-30,Mexican Grand Prix,Autodromo Hermanos Rodriguez,4.304,71,17,19.406066,-99.093027
+21,2022-11-13,Brazilian Grand Prix,Autodromo Jose Carlos Pace,4.309,71,15,-23.701623,-46.697799
+22,2022-11-20,Abu Dhabi Grand Prix,Yas Marina Circuit,5.281,58,16,24.470039,54.605948
