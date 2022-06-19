@@ -142,6 +142,7 @@ with row3_1:
     st.markdown("Hello folks! This is a simple weekend project that I recently worked on in order to learn Streamlit and BeautifulSoup.")
     st.markdown("Data is sourced from www.racing-statistics.com and is updated regularly!")
     st.markdown("Learning resources: https://github.com/tylerjrichards/streamlit_goodreads_app and https://github.com/tdenzl/BuLiAn")
+    st.markdown("Click [here](https://github.com/noviechiuman/streamlit_formula_one_app) to view the source code. ")
 
 #################
 ### STANDINGS ###
