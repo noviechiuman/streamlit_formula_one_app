@@ -8,3 +8,5 @@ I've also included a Jupyter notebook for data scraping (source: www.racing-stat
 Check out the two Streamlit apps which I used as references for my Streamlit app:
 - https://github.com/tylerjrichards/streamlit_goodreads_app
 - https://github.com/tdenzl/BuLiAn
+
+Click here to view the Streamlit app: https://share.streamlit.io/noviechiuman/streamlit_formula_one_app/main/f1.py
